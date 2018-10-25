@@ -6,5 +6,5 @@ File 1 content
 local content
 
 
-##	Rama2 changes
+##	Rama2 changes and local modifications
 These changes only appear on rama 2 
