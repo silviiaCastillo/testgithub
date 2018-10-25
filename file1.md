@@ -8,3 +8,7 @@ local content
 
 ##	Rama2 changes and local modifications
 These changes only appear on rama 2 
+
+## Rama2 remote changes 
+Are in rama2
+
